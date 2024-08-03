@@ -74,7 +74,7 @@ function App() {
 
   return (
     <div className="App">
-      <h2>Route Planner</h2>
+      <h2>F1 Planner</h2>
       <form onSubmit={handleSubmit} className="form">
         <input
           type="text"
